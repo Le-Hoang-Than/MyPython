@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f30dec-b83d-4394-ae70-a20023df4264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/file_handling/read_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/loops/for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/loops/while_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum/problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum/problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/practice/leetcode/easy/1-Two_Sum/problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/practice/leetcode/easy/1-Two_Sum/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/practice/leetcode/easy/1-Two_Sum/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3C4qDrC9dmkHQGeTMyBJJqm8hIx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,23 +39,50 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test.test_case_1.executor": "Run",
     "Python tests.Python tests in test.py.executor": "Run",
     "Python.basic_io.executor": "Run",
+    "Python.for_loop.executor": "Run",
     "Python.if_else.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/MyProject/MyPython/MyPython/python-basics/dsa-practice/leetcode"
+    "last_opened_file_path": "D:/MyProject/MyPython/MyPython/python-basics/dsa/implementations"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyProject\MyPython\MyPython\python-basics\dsa\implementations" />
       <recent name="D:\MyProject\MyPython\MyPython\python-basics\dsa-practice\leetcode" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyProject\MyPython\MyPython" />
       <recent name="D:\MyProject\MyPython\MyPython\python-basics\dsa\practice" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for test.test_case_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="MyPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/practice/leetcode/easy/1-Two_Sum" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_case_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test.test_case_1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
