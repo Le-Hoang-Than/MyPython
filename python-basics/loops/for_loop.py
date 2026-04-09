@@ -54,12 +54,26 @@ for i in range(3):
     print(i)
 else:
     print("Hoàn Thành!")
+"""
+for i in range(3):
+    print(i)
+print("Hoàn Thành!")
+"""
 
 # lồng vòng lặp
 for i in range(3):
     for j in range(2):
         print(i, j)
+"""
+import itertools
+
+for i, j in itertools.product(range(3), range(2)):
+    print(i, j)
+"""
 
 # list comprehension
 numbers = [i for i in range(5)]
 print(numbers)
+"""
+numbers = list(range(5))
+"""
