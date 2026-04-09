@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f30dec-b83d-4394-ae70-a20023df4264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-basics/file_handling/read_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/loops/for_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/loops/while_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum/problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/practice/leetcode/easy/1-Two_Sum/problem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/practice/leetcode/easy/1-Two_Sum/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/practice/leetcode/easy/1-Two_Sum/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-basics/loops/for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-basics/loops/for_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-basics/loops/while_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-basics/loops/while_loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
