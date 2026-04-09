@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f30dec-b83d-4394-ae70-a20023df4264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-basics/conditions/if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-basics/dsa/practice/leetcode/easy/1-Two_Sum/problem.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +36,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test.py.executor": "Run",
     "Python.basic_io.executor": "Run",
     "Python.if_else.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/MyProject/MyPython/MyPython/python-basics/dsa-practice/leetcode"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyProject\MyPython\MyPython\python-basics\dsa-practice\leetcode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyProject\MyPython\MyPython\python-basics\dsa\practice" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
