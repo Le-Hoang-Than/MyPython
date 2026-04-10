@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f30dec-b83d-4394-ae70-a20023df4264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-basics/operators/arithmetic-operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/operators/assignment-operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/operators/bitwise-operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/operators/comparison-operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/operators/identity-operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/operators/logical-operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/operators/membership-operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/operators/operator-precedence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/data-types/data-types.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +40,7 @@
     "Python.assignment-operators.executor": "Run",
     "Python.basic_io.executor": "Run",
     "Python.comparison-operators.executor": "Run",
+    "Python.data-types.executor": "Run",
     "Python.for_loop.executor": "Run",
     "Python.functions.executor": "Run",
     "Python.identity-operators.executor": "Run",
