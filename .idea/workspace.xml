@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f30dec-b83d-4394-ae70-a20023df4264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/Python_If-Else/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/py-hello-world/problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/py-hello-world/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/py-hello-world/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/Python_If-Else/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/Python_If-Else/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/Python_If-Else/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/Python_If-Else/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
