@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f30dec-b83d-4394-ae70-a20023df4264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-basics/Arrays/array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/List/access-list-items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/List/add-list-items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/List/change-list-items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/List/copy-lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/List/join-lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/List/list-comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/List/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/List/loop-lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/List/remove-list-items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/List/sort-lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,20 +45,30 @@
   "keyToString": {
     "Python tests.Python tests for test.test_case_1.executor": "Run",
     "Python tests.Python tests in test.py.executor": "Run",
+    "Python.access-list-items.executor": "Run",
+    "Python.add-list-items.executor": "Run",
     "Python.arithmetic-operators.executor": "Run",
     "Python.array.executor": "Run",
     "Python.assignment-operators.executor": "Run",
     "Python.basic_io.executor": "Run",
+    "Python.change-list-items.executor": "Run",
     "Python.comparison-operators.executor": "Run",
+    "Python.copy-lists.executor": "Run",
     "Python.data-types.executor": "Run",
     "Python.for_loop.executor": "Run",
     "Python.functions.executor": "Run",
     "Python.identity-operators.executor": "Run",
     "Python.if_else.executor": "Run",
+    "Python.join-lists.executor": "Run",
+    "Python.list-comprehension.executor": "Run",
+    "Python.list.executor": "Run",
     "Python.logical-operators.executor": "Run",
+    "Python.loop-lists.executor": "Run",
     "Python.membership-operators.executor": "Run",
     "Python.read_write.executor": "Run",
+    "Python.remove-list-items.executor": "Run",
     "Python.solution.executor": "Run",
+    "Python.sort-lists.executor": "Run",
     "Python.while_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
