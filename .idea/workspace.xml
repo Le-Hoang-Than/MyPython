@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f30dec-b83d-4394-ae70-a20023df4264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-basics/data-types/data-types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-basics/Arrays/array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     "Python tests.Python tests for test.test_case_1.executor": "Run",
     "Python tests.Python tests in test.py.executor": "Run",
     "Python.arithmetic-operators.executor": "Run",
+    "Python.array.executor": "Run",
     "Python.assignment-operators.executor": "Run",
     "Python.basic_io.executor": "Run",
     "Python.comparison-operators.executor": "Run",
