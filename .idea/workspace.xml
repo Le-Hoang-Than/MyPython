@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f30dec-b83d-4394-ae70-a20023df4264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-basics/List/access-list-items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/List/add-list-items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/List/change-list-items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/List/copy-lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/List/join-lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/List/list-comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/List/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/List/loop-lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/List/remove-list-items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-basics/List/sort-lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -36,7 +27,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="3C4qDrC9dmkHQGeTMyBJJqm8hIx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,8 +37,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for test.test_case_1.executor": "Run",
+    "Python tests.Python tests in te.py.executor": "Run",
     "Python tests.Python tests in test.py.executor": "Run",
+    "Python.Tuple.executor": "Run",
     "Python.access-list-items.executor": "Run",
+    "Python.access-tuple-items.executor": "Run",
     "Python.add-list-items.executor": "Run",
     "Python.arithmetic-operators.executor": "Run",
     "Python.array.executor": "Run",
@@ -60,22 +56,27 @@
     "Python.identity-operators.executor": "Run",
     "Python.if_else.executor": "Run",
     "Python.join-lists.executor": "Run",
+    "Python.join-tuple.executor": "Run",
     "Python.list-comprehension.executor": "Run",
     "Python.list.executor": "Run",
     "Python.logical-operators.executor": "Run",
     "Python.loop-lists.executor": "Run",
+    "Python.loop-tuple.executor": "Run",
     "Python.membership-operators.executor": "Run",
     "Python.read_write.executor": "Run",
     "Python.remove-list-items.executor": "Run",
     "Python.solution.executor": "Run",
     "Python.sort-lists.executor": "Run",
+    "Python.unpacking-tuple.executor": "Run",
+    "Python.update-tuples.executor": "Run",
     "Python.while_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/MyProject/MyPython/MyPython/python-basics/dsa/implementations"
+    "last_opened_file_path": "D:/MyProject/MyPython/MyPython/python-basics/dsa/implementations",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
