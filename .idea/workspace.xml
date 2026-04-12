@@ -41,8 +41,10 @@
     "Python tests.Python tests in test.py.executor": "Run",
     "Python.Tuple.executor": "Run",
     "Python.access-list-items.executor": "Run",
+    "Python.access-set-items.executor": "Run",
     "Python.access-tuple-items.executor": "Run",
     "Python.add-list-items.executor": "Run",
+    "Python.add-set-items.executor": "Run",
     "Python.arithmetic-operators.executor": "Run",
     "Python.array.executor": "Run",
     "Python.assignment-operators.executor": "Run",
@@ -56,15 +58,19 @@
     "Python.identity-operators.executor": "Run",
     "Python.if_else.executor": "Run",
     "Python.join-lists.executor": "Run",
+    "Python.join-sets.executor": "Run",
     "Python.join-tuple.executor": "Run",
     "Python.list-comprehension.executor": "Run",
     "Python.list.executor": "Run",
     "Python.logical-operators.executor": "Run",
     "Python.loop-lists.executor": "Run",
+    "Python.loop-sets.executor": "Run",
     "Python.loop-tuple.executor": "Run",
     "Python.membership-operators.executor": "Run",
     "Python.read_write.executor": "Run",
     "Python.remove-list-items.executor": "Run",
+    "Python.remove-set-items.executor": "Run",
+    "Python.set.executor": "Run",
     "Python.solution.executor": "Run",
     "Python.sort-lists.executor": "Run",
     "Python.unpacking-tuple.executor": "Run",
@@ -76,7 +82,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/MyProject/MyPython/MyPython/python-basics/dsa/implementations",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
