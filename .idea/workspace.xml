@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d6f30dec-b83d-4394-ae70-a20023df4264" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/python-arithmetic-operators/problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/py-arithmetic-operators/problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/python-arithmetic-operators/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/py-arithmetic-operators/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/python-arithmetic-operators/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/practice/hackerrank/easy/py-arithmetic-operators/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +108,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/MyProject/MyPython/MyPython/python-basics/dsa/implementations",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
