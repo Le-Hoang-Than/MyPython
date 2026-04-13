@@ -28,6 +28,7 @@ Hoặc:
   - Chia hết cho 100 nhưng không chia hết cho 400. Là năm không nhuận
   - Chia hết cho 4 nhưng khong chia hết cho 100. Là năm nhuận
   - Các trường hợp còn lại không chia hết cho 4. Là năm không nhuận
+
 **Cách giải**
 
 - Nếu năm chia hết 400 thì là năm nhuận
