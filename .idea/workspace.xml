@@ -120,7 +120,7 @@
       <recent name="D:\MyProject\MyPython\MyPython\python-basics\dsa\practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test.test_basic">
+  <component name="RunManager">
     <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPython" />
       <option name="ENV_FILES" value="" />
