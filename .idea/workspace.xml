@@ -94,6 +94,7 @@
     "Python.sort-lists.executor": "Run",
     "Python.special-sequences.executor": "Run",
     "Python.string.executor": "Run",
+    "Python.test.executor": "Run",
     "Python.try-except.executor": "Run",
     "Python.unpacking-tuple.executor": "Run",
     "Python.update-tuples.executor": "Run",
