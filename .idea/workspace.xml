@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d6f30dec-b83d-4394-ae70-a20023df4264" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-basics/Strings/format-strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-basics/Strings/format-strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +165,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/practice/leetcode/easy/1-Two_Sum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/practice/leetcode/easy/1-two-sum" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
