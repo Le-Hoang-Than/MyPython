@@ -28,7 +28,6 @@ def print_rangoli(size):
     alphabet = string.ascii_lowercase
 
     # 2. Xác định các chữ cái sẽ dùng cho kích thước 'size'
-    # Ví dụ size=3 sẽ lấy 'abc'
     chars = alphabet[:size]
 
     lines = []
