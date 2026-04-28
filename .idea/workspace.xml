@@ -122,7 +122,7 @@
       <recent name="D:\MyProject\MyPython\MyPython\python-basics\dsa\practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution">
+  <component name="RunManager">
     <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPython" />
       <option name="ENV_FILES" value="" />
