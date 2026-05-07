@@ -9,7 +9,6 @@ class Solution:
                 return False
             elif c in dic:
                 stack.append(c)
-                continue
             elif c != dic.get(stack.pop()):
                 return False
         return True and not stack
