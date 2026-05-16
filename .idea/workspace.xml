@@ -104,6 +104,8 @@
     "Python.try-except.executor": "Run",
     "Python.unpacking-tuple.executor": "Run",
     "Python.update-tuples.executor": "Run",
+    "Python.vector-with-numpy.executor": "Run",
+    "Python.vector-with-pytorch.executor": "Run",
     "Python.while_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
