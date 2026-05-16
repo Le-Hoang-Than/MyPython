@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6f30dec-b83d-4394-ae70-a20023df4264" name="Changes" comment="" />
+    <list default="true" id="d6f30dec-b83d-4394-ae70-a20023df4264" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +90,8 @@
     "Python.remove-dictionary-items.executor": "Run",
     "Python.remove-list-items.executor": "Run",
     "Python.remove-set-items.executor": "Run",
+    "Python.scalar-with-numpy.executor": "Run",
+    "Python.scalar-with-pytorch.executor": "Run",
     "Python.set.executor": "Run",
     "Python.sets.executor": "Run",
     "Python.slicing-strings.executor": "Run",
@@ -107,7 +111,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/MyProject/MyPython/MyPython/python-basics/dsa/implementations",
+    "last_opened_file_path": "D:/MyProject/MyAI/web-attack-detector",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
